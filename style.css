@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "donkey_stone";
+    src: url('donkey_stone/Donkey\ Stone.otf');
+}
+
+.header{
+    color:blue;
+    background-color: antiquewhite;
+}
+
+.footer{
+    color: brown;
+    background-color: aquamarine;
+}
+h1{
+    color: blueviolet;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'donkey_stone';
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+
+article img{
+    height: 400px;
+    width: 400px;
+}
+
+
+
+h3{
+    
+    font-family: 'Qwitcher Grypen', cursive;
+}
